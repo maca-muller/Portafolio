@@ -1,0 +1,26 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+.rosa-oscuro{
+    background-color:#C88E71;
+}
+
+.hero{
+	background-image: url('../img/hero.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+	padding-bottom: 15rem;
+}
+
+.rosa-claro{
+	background: #F7F2E9;
+}
+
+.manuscrita{
+	font-family: 'Courgette', cursive;
+}
+
+
+
