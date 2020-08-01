@@ -31,3 +31,18 @@ body {
 footer a{
 	color:#FFFFFF;
 }
+
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* efecto de transparencia en imagenes*/
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
